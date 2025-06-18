@@ -1,0 +1,15 @@
+{
+  "ABILITIES": "Таланты",
+  "EGG_MOVES": "Яйцовые Приёмы",
+  "BIOMES": "Биомы",
+  "NATURES": "Характеры",
+  "scanCancel": "Отмена",
+  "pokemonNumber": "№ ",
+  "cycleShiny": ": Сияющий",
+  "cycleForm": ": Форма",
+  "growthRate": "Скорость развития:",
+  "ability": "Талант:",
+  "passive": "Пассив:",
+  "nature": "Характер:",
+  "eggMoves": "Яйцовые Приёмы"
+}

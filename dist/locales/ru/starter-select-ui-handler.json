@@ -1,0 +1,12 @@
+{
+  "growthRate": "Скорость развития:",
+  "ability": "Талант:",
+  "passive": "Пассив:",
+  "nature": "Харак.:",
+  "eggMoves": "Яйцовые Приёмы",
+  "cycleShiny": ": Сияющий",
+  "cycleForm": ": Форма",
+  "cycleAbility": ": Талант",
+  "cycleNature": ": Характер",
+  "cycleTera": ": Тера-тип"
+}

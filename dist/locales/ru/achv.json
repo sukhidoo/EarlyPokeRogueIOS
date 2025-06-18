@@ -1,0 +1,14 @@
+{
+  "Achievements": {
+    "name": "Достижения"
+  },
+  "Locked": {
+    "name": "Заблокирован"
+  },
+  "SEE_SHINY": {
+    "name": "Сияющий"
+  },
+  "HATCH_SHINY": {
+    "name": "Сияющее Яйцо"
+  }
+}
